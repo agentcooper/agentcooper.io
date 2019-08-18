@@ -10,7 +10,6 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next, sourceName } = this.props.pageContext;
-    console.log(sourceName);
     const isCollection = sourceName === "collections";
 
     return (
