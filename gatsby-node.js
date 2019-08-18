@@ -16,6 +16,7 @@ exports.createPages = async ({ graphql, actions }) => {
             node {
               fields {
                 slug
+                sourceName
               }
               frontmatter {
                 title
@@ -35,6 +36,7 @@ exports.createPages = async ({ graphql, actions }) => {
   const posts = result.data.allMarkdownRemark.edges;
 
   posts.forEach((post, index) => {
+    const { sourceName } = post.node.fields;
     const previous = index === posts.length - 1 ? null : posts[index + 1].node;
     const next = index === 0 ? null : posts[index - 1].node;
 
@@ -45,6 +47,7 @@ exports.createPages = async ({ graphql, actions }) => {
         slug: post.node.fields.slug,
         previous,
         next,
+        sourceName,
       },
     });
   });
@@ -54,11 +57,23 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
+    const fileNode = getNode(node.parent);
+    const { sourceInstanceName } = fileNode;
+    const filePath = createFilePath({ node, getNode });
+
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value:
+        sourceInstanceName === "collections"
+          ? path.join("/collections/", filePath)
+          : filePath,
+    });
+
+    createNodeField({
+      name: `sourceName`,
+      node,
+      value: sourceInstanceName,
     });
   }
 };

@@ -9,30 +9,51 @@ class BlogIndex extends React.Component {
   render() {
     const { data } = this.props;
     const siteTitle = data.site.siteMetadata.title;
-    const posts = data.allMarkdownRemark.edges;
+
+    const blogPosts = data.posts.edges;
+    const collectionItems = data.collections.edges;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug;
-          return (
-            <article key={node.fields.slug}>
-              <header>
-                <h3
-                  style={{
-                    fontWeight: "normal",
-                    marginTop: "1.2em",
-                    marginBottom: rhythm(1 / 4),
-                  }}
+        <div style={{ display: "flex", flexDirection: "row" }}>
+          <div>
+            <h3>Computers</h3>
+            {blogPosts.map(({ node }) => {
+              const title = node.frontmatter.title || node.fields.slug;
+              return (
+                <article key={node.fields.slug}>
+                  <h3
+                    style={{
+                      fontWeight: "normal",
+                      marginTop: "1.2em",
+                      marginBottom: rhythm(1 / 4),
+                    }}
+                  >
+                    <Link to={node.fields.slug}>{title}</Link>
+                  </h3>
+                  <small>{node.frontmatter.date}</small>
+                </article>
+              );
+            })}
+          </div>
+          <div style={{ marginLeft: "4em" }}>
+            <h3>Collections</h3>
+            {collectionItems.map(({ node }) => {
+              return (
+                <article
+                  key={node.fields.slug}
+                  style={{ marginBottom: "0.5em" }}
                 >
-                  <Link to={node.fields.slug}>{title}</Link>
-                </h3>
-                <small>{node.frontmatter.date}</small>
-              </header>
-            </article>
-          );
-        })}
+                  <header>
+                    <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+                  </header>
+                </article>
+              );
+            })}
+          </div>
+        </div>
+
         <footer>
           <h3>Contact me</h3>
           <p>
@@ -54,17 +75,38 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    posts: allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      filter: { fields: { sourceName: { eq: "blog" } } }
+    ) {
       edges {
         node {
           excerpt
           fields {
             slug
+            sourceName
           }
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
             description
+          }
+        }
+      }
+    }
+    collections: allMarkdownRemark(
+      sort: { fields: [frontmatter___title], order: ASC }
+      filter: { fields: { sourceName: { eq: "collections" } } }
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+            sourceName
+          }
+          frontmatter {
+            title
           }
         }
       }
