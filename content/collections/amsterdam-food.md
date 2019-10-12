@@ -2,6 +2,7 @@
 title: Amsterdam food
 ---
 
+- 👍 12 October: [Men Impossible](https://g.page/MenImpossible?share). Reservation only vegan ramen, fantastic taste, cozy place.
 - 🤷 05 августа: [Troost](https://goo.gl/maps/9Azi4tYqkaaGgDiu7). Бургеры и пиво.
 - 👍 28 июля: [Hakata Senpachi](https://goo.gl/maps/vJGKYstB7pPafsii9). Японские шашлыки и куча видов выпивки.
 - 👍 25 мая: [The Cottage](https://goo.gl/maps/H9sjbA1bX211tqECA). Английские яйца и бранч.
