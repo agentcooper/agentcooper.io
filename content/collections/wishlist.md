@@ -7,7 +7,7 @@ In no particular order.
 ## Books
 
 1. [Feynman Lectures](https://www.amazon.de/dp/0465023827)
-2. [Bad Gateway](https://www.amazon.de/dp/B07MCW5S7R)
+2. [Bad Gateway](https://www.amazon.de/dp/1683962079)
 3. [The Little Typer](https://mitpress.mit.edu/books/little-typer)
 
 ## Video games
