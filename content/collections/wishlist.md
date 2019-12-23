@@ -15,6 +15,7 @@ In no particular order.
 1. [Final Fantasy XII: The Zodiac Age (Switch)](https://www.amazon.de/dp/B07MCW5S7R)
 2. [Layton's Mystery Journey (Switch)](https://www.bol.com/nl/p/layton-s-mystery-journey-katrielle-miljonairscomplot-deluxe-edition-switch/9200000115890979/)
 3. [The Legend of Zelda: Link's Awakening (Switch)](https://www.amazon.de/dp/B07NW5FXTK)
+4. [PlayStation Classic](https://www.playstation.com/en-us/explore/playstation-classic/)
 
 ## Things
 
