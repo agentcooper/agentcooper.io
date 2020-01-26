@@ -23,3 +23,4 @@ In no particular order.
 
 1. ~~[Phillips Sleep & Wake-up Light](https://www.philips.nl/c-m-pe/lichttherapie/sleep-wake-up-light/alle)~~ (January 2020)
 2. Lego
+3. [Suitcase](https://www.awaytravel.com/eu/en/suitcases/bigger-carry-on/brick)
