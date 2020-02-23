@@ -1,10 +1,21 @@
 ---
-title: Movies
+title: Movies & TV
 ---
 
-Очень персональный список любимых фильмов.
+## Diary (Movies)
 
-## Фильмы
+See my [Letterboxd profile](https://letterboxd.com/evilagentcooper/films/diary/).
+
+## Diary (TV)
+
+- ⭐️ [Mindhunter](<https://en.wikipedia.org/wiki/Mindhunter_(TV_series)>), season 1 (February 2019)
+- [Sex Education](<https://en.wikipedia.org/wiki/Sex_Education_(TV_series)>), seasons 1-2 (February 2019)
+- ⭐️ [BoJack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman), season 6 (February 2019)
+- ⭐️ [Community](<https://en.wikipedia.org/wiki/Community_(TV_series)>) (second watch), season 1 () (January 2019)
+- ⭐️ [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty), season 4 (January 2019)
+- ⭐️ [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos), seasons 1-6 (January – March 2019)
+
+## Favourites (Movies)
 
 - [Mullholand Dr.](https://www.imdb.com/title/tt0166924)
 - [Lost in Translation](https://www.imdb.com/title/tt0335266)
@@ -32,21 +43,17 @@ title: Movies
 - [Social Network](https://www.imdb.com/title/tt1285016)
 - [Porco Rosso](https://www.imdb.com/title/tt0104652)
 
-## Телевизор
+## Favourites (TV)
 
+- [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
 - [Friends](https://www.imdb.com/title/tt0108778)
 - [Twin Peaks](https://www.imdb.com/title/tt0098936)
 - [Arrested Development](https://www.imdb.com/title/tt0367279)
-- [Weeds](https://www.imdb.com/title/tt0439100)
 - [Community](https://www.imdb.com/title/tt1439629)
 
-### Где искать кино?
+## What to watch?
 
 - [rogerebert.com](https://www.rogerebert.com/)
 - [Criterion Collection](https://www.criterion.com/)
 - [LaCinetek](https://www.lacinetek.com)
 - [LetterBoxd](https://letterboxd.com)
-
-### IMDB
-
-https://www.imdb.com/user/ur23913049/ratings
