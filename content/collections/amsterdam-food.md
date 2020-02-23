@@ -10,7 +10,7 @@ title: Amsterdam food
 - 🤷 09 February: [De Carousel](https://goo.gl/maps/g6jQJm6fXnnyFzqr6): OK crepes.
 - 👍 02 February: [Kazerne88](https://g.page/Kazerne88?share): try poke salmon toast.
 - 👍 31 January: [Pepenero](https://g.page/pepenero-cucina-pizza): nice seafood ziti.
-- 🤷 24 January: [Yuan’s Hot Pot](https://goo.gl/maps/g6jQJm6fXnnyFzqr6): making your own food is not my thing.
+- 🤷 24 January: [Yuan’s Hot Pot](https://g.page/yuanhotpotdepijp): making your own food is not my thing.
 - 👎 19 January: [The Clubsandwich Company](https://g.page/theclubsandwichcompany?share): not good.
 - 👍 12 January: [Factory Girl](https://g.page/FactoryGirlAmsterdam): good shakshuka.
 - 👎 10 January: [De Bicker](https://goo.gl/maps/wzQaZic4v4CZCaLx6): don't remember much.
