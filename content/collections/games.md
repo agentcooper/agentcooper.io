@@ -2,6 +2,7 @@
 title: Games
 ---
 
+- ⭐️ [Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)) (March 2020, Switch)
 - ⭐️ [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) (December 2019, PS4)
 - [Mario Kart Tour](https://en.wikipedia.org/wiki/Mario_Kart_Tour) (October 2019, iOS)
 - [Untitled Goose Game](https://en.wikipedia.org/wiki/Untitled_Goose_Game) (October 2019, Switch)
@@ -31,3 +32,13 @@ title: Games
 - [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero) (macOS)
 - ⭐️ [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango) (macOS)
 - ️⭐️ [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2) (macOS)
+
+## Looking forward to try
+
+- [Wide Ocean Big Jacket](https://www.nintendo.com/games/detail/wide-ocean-big-jacket-switch/)
+- [Coffee Talk](https://www.gog.com/game/coffee_talk)
+- [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
+
+## Other
+
+- https://controller.wtf/
