@@ -13,6 +13,7 @@ title: Amsterdam work
 - [WeTransfer](https://wetransfer.com/about)
 - [Cloud9 @ Amazon](https://www.amazon.jobs/en/locations/amsterdam-netherlands?offset=0&result_limit=10&sort=relevant&category=software-development&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&)
 - [Miro](https://miro.com/careers/vacancy/4502636002/)
+- [Rekki](https://jobs.lever.co/rekki/cd5e9a2e-4b83-4ba0-9cb3-386091e89251)
 - [Bunq](https://www.bunq.com/)
 - [Adyen](https://www.adyen.com)
 - [Mollie](https://jobs.mollie.com/?selectedType=location)
