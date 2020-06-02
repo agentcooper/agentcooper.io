@@ -2,6 +2,7 @@
 title: Games
 ---
 
+- ⭐️ [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
 - ⭐️ [Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)) (March 2020, Switch)
 - ⭐️ [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) (December 2019, PS4)
 - [Mario Kart Tour](https://en.wikipedia.org/wiki/Mario_Kart_Tour) (October 2019, iOS)
