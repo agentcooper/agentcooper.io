@@ -7,7 +7,7 @@ In no particular order.
 ## Books
 
 1. [Feynman Lectures](https://www.amazon.de/dp/0465023827)
-2. [Bad Gateway](https://www.amazon.de/dp/1683962079)
+2. ~~[Bad Gateway](https://www.amazon.de/dp/1683962079)
 3. [The Little Typer](https://mitpress.mit.edu/books/little-typer)
 4. [A Programmer's Introduction to Mathematics](https://pimbook.org/)
 5. [Revolution in The Valley: The Insanely Great Story of How the Mac Was Made](https://www.amazon.com/gp/product/0596007191)
