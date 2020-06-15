@@ -2,7 +2,8 @@
 title: Games
 ---
 
-- ⭐️ [Animal Crossing](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
+- ⭐️ [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
+- [Coffee Talk](https://www.gog.com/game/coffee_talk) (May 2020, macOS)
 - ⭐️ [Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)) (March 2020, Switch)
 - ⭐️ [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) (December 2019, PS4)
 - [Mario Kart Tour](https://en.wikipedia.org/wiki/Mario_Kart_Tour) (October 2019, iOS)
@@ -37,8 +38,8 @@ title: Games
 ## Looking forward to try
 
 - [Wide Ocean Big Jacket](https://www.nintendo.com/games/detail/wide-ocean-big-jacket-switch/)
-- [Coffee Talk](https://www.gog.com/game/coffee_talk)
-- [Animal Crossing: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
+- [Deadly Premonition 2: A Blessing In Disguise](https://www.nintendo.com/games/detail/deadly-premonition-2-a-blessing-in-disguise-switch/)
+- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
 
 ## Other
 
