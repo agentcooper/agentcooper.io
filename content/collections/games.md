@@ -2,6 +2,7 @@
 title: Games
 ---
 
+- ⭐️ [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake) (June 2020, PS4)
 - [Fortnite](https://en.wikipedia.org/wiki/Fortnite) (June 2020, macOS)
 - ⭐️ [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
 - [Coffee Talk](https://www.gog.com/game/coffee_talk) (May 2020, macOS)
