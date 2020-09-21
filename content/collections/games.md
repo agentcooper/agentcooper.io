@@ -2,6 +2,11 @@
 title: Games
 ---
 
+- [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) (Now playing, PC)
+- ⭐️ [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) (September 2020, PS4)
+- [Uncharted 3: Drake's Deception](https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception) (September 2020, PS4)
+- ⭐️ [Uncharted 2: Among Thieves](https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves) (August 2020, PS4)
+- [Uncharted: Drake's Fortune](https://en.wikipedia.org/wiki/Uncharted:_Drake%27s_Fortune) (August 2020, PS4)
 - ⭐️ [Final Fantasy VII Remake](https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake) (June 2020, PS4)
 - [Fortnite](https://en.wikipedia.org/wiki/Fortnite) (June 2020, macOS)
 - ⭐️ [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
