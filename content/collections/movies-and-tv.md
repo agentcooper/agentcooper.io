@@ -8,6 +8,7 @@ See my [Letterboxd profile](https://letterboxd.com/evilagentcooper/films/diary/)
 
 ## Diary (TV)
 
+- ⭐️ [The Wire](https://en.wikipedia.org/wiki/The_Wire), seasons 1-5 (October – December 2020)
 - ⭐️ [Mindhunter](<https://en.wikipedia.org/wiki/Mindhunter_(TV_series)>), season 1 (February 2019)
 - [Sex Education](<https://en.wikipedia.org/wiki/Sex_Education_(TV_series)>), seasons 1-2 (February 2019)
 - ⭐️ [BoJack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman), season 6 (February 2019)
@@ -46,6 +47,7 @@ See my [Letterboxd profile](https://letterboxd.com/evilagentcooper/films/diary/)
 ## Favourites (TV)
 
 - [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos)
+- [The Wire](https://en.wikipedia.org/wiki/The_Wire)
 - [Friends](https://www.imdb.com/title/tt0108778)
 - [Twin Peaks](https://www.imdb.com/title/tt0098936)
 - [Arrested Development](https://www.imdb.com/title/tt0367279)
