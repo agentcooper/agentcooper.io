@@ -2,7 +2,10 @@
 title: Games
 ---
 
-- [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) (Now playing, PC)
+- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (Now playing, PC)
+- [Super Mario Galaxy](https://supermario3dallstars.nintendo.com/super-mario-galaxy/) (Now playing, Switch)
+- [Wide Ocean Big Jacket](https://www.nintendo.com/games/detail/wide-ocean-big-jacket-switch/) (October 2020, Switch)
+- [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) (September 2020, PC)
 - ⭐️ [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) (September 2020, PS4)
 - [Uncharted 3: Drake's Deception](https://en.wikipedia.org/wiki/Uncharted_3:_Drake%27s_Deception) (September 2020, PS4)
 - ⭐️ [Uncharted 2: Among Thieves](https://en.wikipedia.org/wiki/Uncharted_2:_Among_Thieves) (August 2020, PS4)
@@ -44,9 +47,7 @@ title: Games
 
 ## Looking forward to try
 
-- [Wide Ocean Big Jacket](https://www.nintendo.com/games/detail/wide-ocean-big-jacket-switch/)
-- [Deadly Premonition 2: A Blessing In Disguise](https://www.nintendo.com/games/detail/deadly-premonition-2-a-blessing-in-disguise-switch/)
-- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077)
+?
 
 ## Other
 
