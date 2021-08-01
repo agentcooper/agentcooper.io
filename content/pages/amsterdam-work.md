@@ -2,7 +2,7 @@
 title: Amsterdam work
 ---
 
-## Стартапы и компании
+Interesting companies to work for in Amsterdam:
 
 - [Framer](https://framer.com/company)
 - [3D Hubs](https://www.3dhubs.com)
@@ -22,4 +22,3 @@ title: Amsterdam work
 - [Yieldr](https://www.yieldr.com/)
 - [Secfi](https://www.secfi.com)
 - [Bux](https://getbux.com/bux/about-bux/)
-

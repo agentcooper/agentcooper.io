@@ -2,8 +2,9 @@
 title: Games
 ---
 
-- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (Now playing, PC)
-- [Super Mario Galaxy](https://supermario3dallstars.nintendo.com/super-mario-galaxy/) (Now playing, Switch)
+- ⭐️ [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) (July 2021, PC)
+- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (PC)
+- ⭐️ [Super Mario Galaxy](https://supermario3dallstars.nintendo.com/super-mario-galaxy/) (Switch)
 - [Wide Ocean Big Jacket](https://www.nintendo.com/games/detail/wide-ocean-big-jacket-switch/) (October 2020, Switch)
 - [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) (September 2020, PC)
 - ⭐️ [Uncharted 4: A Thief's End](https://en.wikipedia.org/wiki/Uncharted_4:_A_Thief%27s_End) (September 2020, PS4)
@@ -14,7 +15,7 @@ title: Games
 - [Fortnite](https://en.wikipedia.org/wiki/Fortnite) (June 2020, macOS)
 - ⭐️ [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
 - [Coffee Talk](https://www.gog.com/game/coffee_talk) (May 2020, macOS)
-- ⭐️ [Zelda](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)) (March 2020, Switch)
+- ⭐️ [Zelda](<https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)>) (March 2020, Switch)
 - ⭐️ [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) (December 2019, PS4)
 - [Mario Kart Tour](https://en.wikipedia.org/wiki/Mario_Kart_Tour) (October 2019, iOS)
 - [Untitled Goose Game](https://en.wikipedia.org/wiki/Untitled_Goose_Game) (October 2019, Switch)

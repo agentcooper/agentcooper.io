@@ -13,6 +13,7 @@ title: Good software
 - [Visual Studio Code](https://code.visualstudio.com/) (Code editor)
 - [Anki](https://apps.ankiweb.net/) (Flashcards)
 - [Picard](https://picard.musicbrainz.org/) (MP3 tag editor)
+- [DeepL] (Language translation)
 
 ## Paid
 
