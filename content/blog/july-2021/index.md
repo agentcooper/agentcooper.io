@@ -6,11 +6,11 @@ description: July 2021
 
 ## Events
 
-We had a small team reunion with my Uber friends. A running joke is that everyone wants to be fired again, as we now know how to handle and enjoy the whole process.
+We had a small team reunion with my ex-Uber friends. A running joke is that everyone wants to be fired again, as we now know how to handle and enjoy the whole process.
 
 Visited [KABK Graduation Show 2021](https://graduation2021.kabk.nl). I think all universities should have a graduation show, not just art schools. My university thesis was a waste of time partly because I knew no one would see it except few people at my faculty. At this graduation show, there was a video project about the political situation in Turkey where they’ve tortured prisoners with songs about how great Turkey is and lyrics like “The Turk has no friend but the Turk”.
 
-Took a train to Berlin and stayed over at the friend’s place for a week. Berlin feels like Moscow from a different timeline (with the “post-apocalyptic freedom” feel). Everyone wears masks indoors compared to Amsterdam where it seems I am the only one doing it. Still, no one speaks English, but finally, you can use cashless payments almost everywhere. It was my first trip in a long time and it felt great to see good friends.
+Took a train to Berlin and stayed over at the friend’s place for a week. Berlin feels like Moscow from a different timeline (with the “post-apocalyptic freedom” feel). Everyone wears masks indoors compared to Amsterdam where it seems I am the only one doing it. Still no one speaks English, but finally you can use cashless payments almost everywhere. It was my first trip in a long time and it felt great to see good friends.
 
 My anarchist friends took me to the former squat place called [MKZ](https://www.spottedbylocals.com/amsterdam/community-kitchen-mkz/). They have an anarchist library and the food is prepared by the community volunteers, you need to wash your own dishes in the end.
 
@@ -24,7 +24,7 @@ Played around with [Apple Maps on the web](https://developer.apple.com/maps/web/
 
 Did just 6 runs for 48.76 KM that is significantly lower than July (105.89 KM). As I am signed up for the full marathon in October, I definitely need to run more. At this point, I am quite far behind the Strava schedule and I probably need to reset it.
 
-Struggling with the guitar arpeggio, but got faster with chord switching (but not barre chords).
+Struggling with the guitar arpeggio, but got faster with chord switching (not barre chords though).
 
 ## Entertainment
 
