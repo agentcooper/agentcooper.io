@@ -11,14 +11,14 @@ class BlogIndex extends React.Component {
     const siteTitle = data.site.siteMetadata.title;
 
     const blogPosts = data.posts.edges;
-    const collectionItems = data.collections.edges;
+    const pageItems = data.pages.edges;
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="All posts" />
         <div style={{ display: "flex", flexDirection: "row" }}>
           <div>
-            <h3>Computers</h3>
+            <h3>Posts</h3>
             {blogPosts.map(({ node }) => {
               const title = node.frontmatter.title || node.fields.slug;
               return (
@@ -38,8 +38,8 @@ class BlogIndex extends React.Component {
             })}
           </div>
           <div style={{ marginLeft: "4em" }}>
-            <h3>Collections</h3>
-            {collectionItems.map(({ node }) => {
+            <h3>Pages</h3>
+            {pageItems.map(({ node }) => {
               return (
                 <article
                   key={node.fields.slug}
@@ -94,9 +94,9 @@ export const pageQuery = graphql`
         }
       }
     }
-    collections: allMarkdownRemark(
+    pages: allMarkdownRemark(
       sort: { fields: [frontmatter___title], order: ASC }
-      filter: { fields: { sourceName: { eq: "collections" } } }
+      filter: { fields: { sourceName: { eq: "pages" } } }
     ) {
       edges {
         node {

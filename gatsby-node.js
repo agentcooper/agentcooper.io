@@ -65,8 +65,8 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
       name: `slug`,
       node,
       value:
-        sourceInstanceName === "collections"
-          ? path.join("/collections/", filePath)
+        sourceInstanceName === "pages"
+          ? path.join("/pages/", filePath)
           : filePath,
     });
 

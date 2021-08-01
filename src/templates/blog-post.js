@@ -10,7 +10,7 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next, sourceName } = this.props.pageContext;
-    const isCollection = sourceName === "collections";
+    const isPage = sourceName === "pages";
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -39,7 +39,7 @@ class BlogPostTemplate extends React.Component {
             </p>
           </header>
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
-          {!isCollection && (
+          {!isPage && (
             <hr
               style={{
                 marginBottom: rhythm(1),
@@ -49,7 +49,7 @@ class BlogPostTemplate extends React.Component {
         </article>
 
         <nav>
-          {!isCollection && (
+          {!isPage && (
             <ul
               style={{
                 display: `flex`,
