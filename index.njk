@@ -1,0 +1,16 @@
+---
+layout: base
+title: Home
+eleventyNavigation:
+  key: Home
+  order: 1
+---
+
+<ol reversed class="postlist" style="counter-reset: start-from {{ collections.posts.length + 1 }}">
+{% for post in collections.posts | reverse %}
+  <li class="postlist-item">
+    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+  </li>
+{% endfor %}
+</ol>

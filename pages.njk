@@ -1,0 +1,17 @@
+---
+layout: base
+title: Pages
+eleventyNavigation:
+  key: Pages
+  order: 3
+---
+
+<p>Random set of notes here.</p>
+
+<ul style="padding: 0; margin: 0;">
+{% for post in collections.pages | reverse %}
+  <li style="padding-left: 0;">
+    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+  </li>
+{% endfor %}
+</ul>

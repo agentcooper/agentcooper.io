@@ -1,0 +1,21 @@
+{
+  "title": "Artem Tyurin",
+  "url": "https://agentcooper.io/",
+  "language": "en",
+  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "feed": {
+    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "filename": "rss.xml",
+    "path": "/rss.xml",
+    "id": "https://agentcooper.io/"
+  },
+  "jsonfeed": {
+    "path": "/feed.json",
+    "url": "https://agentcooper.io/feed.json"
+  },
+  "author": {
+    "name": "Artem Tyurin",
+    "email": "artem.tyurin@gmail.com",
+    "url": "https://agentcooper.io/about"
+  }
+}
