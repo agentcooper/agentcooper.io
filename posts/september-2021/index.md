@@ -42,10 +42,7 @@ _Military spending by country in 1910_
 
 –
 
-Inspired by the [Stop Learning](https://www.nashvail.me/blog/stop-learning), instead of picking up on more books about compilers, I've decided to do something more practical by contributing to an open-source project. I've sent 2 pull requests to TypeScript and planning to contribute more.
-
-1. https://github.com/microsoft/TypeScript/pull/46042
-2. https://github.com/microsoft/TypeScript/pull/46033
+Inspired by the [Stop Learning](https://www.nashvail.me/blog/stop-learning), instead of picking up on more books about compilers, I've decided to do something more practical by contributing to an open-source project. I've sent [2 pull requests](https://github.com/microsoft/TypeScript/pulls?q=is%3Apr+author%3Aagentcooper+created%3A%3E2021-09-01+) to TypeScript and planning to contribute more.
 
 –
 
