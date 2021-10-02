@@ -11,6 +11,6 @@ Available under "Share..." menu.
 Click on iOS: https://www.icloud.com/shortcuts/9fcb2f7a24734cedbb3915da1f66ab7d
 
 Screenshots:
-![Shortcut](./images/shortcuts/translate-shortcut.png)
+![Shortcut](../images/shortcuts/translate-shortcut.png)
 
-![Share...](./images/shortcuts/translate-share.png)
+![Share...](../images/shortcuts/translate-share.png)
