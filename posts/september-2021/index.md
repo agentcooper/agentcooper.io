@@ -46,7 +46,7 @@ Inspired by the [Stop Learning](https://www.nashvail.me/blog/stop-learning), ins
 
 –
 
-In between the more demanding reading about genes, I've picked up [Barking Up the Wrong Tree](https://www.goodreads.com/book/show/31706504-barking-up-the-wrong-tree) as it was mentioned by the Wait But Why posts a few times. It mentions a few studies about the correlation between salary and level of happiness and the conclusion seems that you don't need more than 100k per year. Many of my life decisions are influenced by money and to I don't have a clear understanding of exactly how much money I need.
+In between the more demanding reading about genes, I've picked up [Barking Up the Wrong Tree](https://www.goodreads.com/book/show/31706504-barking-up-the-wrong-tree) as it was mentioned by the Wait But Why posts a few times. The book mentions a few studies about the correlation between salary and level of happiness and the conclusion seems that you don't need more than 100k per year. Many of my life decisions are influenced by money and I don't have a clear understanding of exactly how much money I need.
 
 –
 
