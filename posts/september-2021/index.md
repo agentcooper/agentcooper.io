@@ -57,5 +57,5 @@ My laptop suddenly died because of battery issues and I got the new M1 13" MacBo
 Internet links:
 
 - [The Last Time Always Happens Now](https://www.raptitude.com/2021/09/the-last-time-always-happens-now/)
-- [The Universe is Hostile to Supercomputers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
-- [Emmanuel Charepentier Nobel Lecture on CRISPR](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
+- [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
+- [Emmanuelle Charpentier Nobel Prize Lecture on CRISPR](https://www.youtube.com/watch?v=3POrtQEpV2s)
