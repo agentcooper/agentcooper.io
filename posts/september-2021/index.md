@@ -13,9 +13,11 @@ I've successfully managed to disconnect from most of the internet and it felt gr
 
 –
 
-Starting from the plane seat I was absorbed into [The Code Breaker](https://en.wikipedia.org/wiki/The_Code_Breaker) book about CRISPR technology. It tells the story of how biologists discovered an immune system in bacteria that was later adapted as a very precise gene-editing mechanism in all organisms including humans.
+Starting from the plane seat I was absorbed into [The Code Breaker](https://en.wikipedia.org/wiki/The_Code_Breaker) book about CRISPR technology. It tells the story of how biologists discovered an immune system in bacteria that was later adapted as a very precise gene-editing mechanism in all organisms including humans. The story briefly tracks the history of genetics, going from Darwin and Mendel to the discovery of the recombinant DNA to the Human Genome Project and finally arriving at the usage of CRISPR to edit human embryos.
 
-Jennifer Doudna, one of the leading CRISPR scientists, tells how reading The Double Helix book inspired her to do science. And for Watson, it was Shroedinger's What is Life book that ignited his curiosity. It would be interesting to build a graph of the books that people consider influential.
+I followed up by watching some biology videos on Khan Academy, like what is PCR and how DNA sequencing works, and was again impressed by how accessible they are.
+
+In the book, Jennifer Doudna, one of the leading CRISPR scientists, tells how reading The Double Helix book inspired her to do science. And for Watson, it was Shroedinger's What is Life book that ignited his curiosity. It would be interesting to build a graph of the books that people consider influential.
 
 –
 
@@ -33,7 +35,7 @@ When playing Mario Kart we've come up with the joke of how the game is similar t
 
 At the beginning of this year, I've stopped reading all Russian news as it gave me too much stress and anxiety. The stoic advice is to take action on what you can change and ignore the rest. I doubt that voting in rigged elections changes anything, but it gives closure to the action part.
 
-So on one of the weekends I've traveled to the Russian embassy in The Hague to vote for the parliament elections in Russia. On my way back to the train station I've stumbled upon the [Peace Palace](https://en.wikipedia.org/wiki/Peace_Palace), a place where the UN court sits. They have a small visitor center that tells the story of the palace. I've learned that it was Nicholas II, the last Russian czar, who had the initial idea for the palace as he was unhappy with how much the empire spends on the military needs. As a result, they've extended the rules on the prohibited practices during the war, like gas weapons. These days it is impossible to imagine any Russian involvement in celebrating peace.
+So on one of the weekends I've traveled to the Russian embassy in The Hague to vote for the legislative elections in Russia. On my way back to the train station I've stumbled upon the [Peace Palace](https://en.wikipedia.org/wiki/Peace_Palace), a place where the UN court sits. They have a small visitor center that tells the story of the palace. I've learned that it was Nicholas II, the last Russian czar, who had the initial idea for the palace as he was unhappy with how much the empire spends on the military needs. As a result, they've extended the rules on the prohibited practices during the war, like gas weapons. These days it is impossible to imagine any Russian involvement in celebrating peace.
 
 ![Military spending](military-spending.jpg)
 _Military spending by country in 1910_
