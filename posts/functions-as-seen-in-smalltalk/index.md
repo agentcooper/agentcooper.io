@@ -8,7 +8,7 @@ description: Hello world
 
 We start by defining our own `indexOf` function. It takes a string, a character, and a starting index:
 
-```
+```js
 function indexOf(s, char, startingAt) {
   // ...
 }
@@ -46,13 +46,13 @@ Languages like Smalltalk and Objective-C give you an ability to encode this type
 
 Here is an example Objective-C method signature:
 
-```
+```objc
 - (int)changeColorToRed:(float)red green:(float)green blue:(float)blue;
 ```
 
 Method call would like like this:
 
-```
+```objc
 [myColor changeColorToRed:5.0 green:2.0 blue:6.0];
 ```
 
@@ -104,7 +104,7 @@ function define(parameterDefinitionString, handler) {
     const namePart = parts[index];
     const argumentName = parts[index + 1];
 
-    obj[namePart] = function(objArg) {
+    obj[namePart] = function (objArg) {
       args.push(objArg[argumentName]);
 
       if (index >= parts.length - 2) {
