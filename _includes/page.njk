@@ -3,4 +3,6 @@ layout: base
 ---
 <h1>{{ title }}</h1>
 
+<p><time datetime="{{ page.date | htmlDateString }}"><a href="https://github.com/agentcooper/agentcooper.io/commits/master/{{ page.inputPath }}">Last modified on {{ page.date | readableDate }}</a></time></p>
+
 {{ content | safe }}
