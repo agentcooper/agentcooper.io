@@ -1,7 +1,3 @@
----
-title: Good software
----
-
 # macOS
 
 ## Free

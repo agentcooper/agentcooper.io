@@ -1,7 +1,3 @@
----
-title: Amsterdam work
----
-
 Interesting companies to work for in Amsterdam:
 
 - [Framer](https://framer.com/company)

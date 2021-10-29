@@ -1,7 +1,3 @@
----
-title: Amsterdam food
----
-
 # 2020
 
 - 👍 23 February: [The Avocado Show](https://g.page/theavoshow-amsterdam-depijp): great pancakes and avocado fries.

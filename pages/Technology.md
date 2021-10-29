@@ -1,7 +1,3 @@
----
-title: Technology
----
-
 ### История
 
 - [The Early History Of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/)

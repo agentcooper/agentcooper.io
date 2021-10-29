@@ -1,7 +1,3 @@
----
-title: Movies & TV
----
-
 ## Diary (Movies)
 
 See my [Letterboxd profile](https://letterboxd.com/evilagentcooper/films/diary/).

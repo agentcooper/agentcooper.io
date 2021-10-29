@@ -1,7 +1,3 @@
----
-title: Games
----
-
 - ⭐️ [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) (July 2021, PC)
 - [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (PC)
 - ⭐️ [Super Mario Galaxy](https://supermario3dallstars.nintendo.com/super-mario-galaxy/) (Switch)
