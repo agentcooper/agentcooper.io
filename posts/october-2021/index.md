@@ -23,7 +23,7 @@ I didn't have much time for cultural events, but the two I visited were great. F
 
 At my parent's home, I've meticulously scanned many old photos with the [PhotoScan app](https://www.google.com/photos/scan/). The quality is far from the actual scanner, but it is good enough.
 
-Here is me drinking Tobasco and probably doing hacker stuff:
+Here is me drinking Tabasco and probably doing hacker stuff:
 
 ![Me](me.jpg)
 
