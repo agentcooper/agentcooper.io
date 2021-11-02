@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/agentcooper/agentcooper.io",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.0-beta.3",
     "@11ty/eleventy-navigation": "^0.3.2",
-    "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
     "eleventy-plugin-git-commit-date": "^0.1.3",
     "luxon": "^1.26.0",
     "markdown-it": "^12.1.0",
