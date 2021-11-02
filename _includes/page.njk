@@ -3,6 +3,8 @@ layout: base
 ---
 <h1>{{ title }}</h1>
 
+{%- if lastModifiedDate %}
 <a href="https://github.com/agentcooper/agentcooper.io/commits/master/{{ page.inputPath }}"><time datetime="{{ lastModifiedDate | htmlDateString }}">Last modified on {{ lastModifiedDate | readableDate }}</time></a>
+{%- endif %}
 
 {{ content | safe }}
