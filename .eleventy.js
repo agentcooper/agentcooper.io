@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const pluginGitCommitDate = require("eleventy-plugin-git-commit-date");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 
 const markdownIt = require("markdown-it");
@@ -12,6 +13,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(pluginGitCommitDate);
 
   // https://www.11ty.dev/docs/data-deep-merge/
   eleventyConfig.setDataDeepMerge(true);
