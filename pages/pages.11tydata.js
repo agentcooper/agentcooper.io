@@ -11,7 +11,7 @@ module.exports = {
 
       return result;
     },
-    date: (data) => {
+    lastModifiedDate: (data) => {
       return pluginGitCommitDate.getGitCommitDateFromPath(data.page.inputPath);
     },
   },

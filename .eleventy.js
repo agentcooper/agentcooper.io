@@ -28,6 +28,12 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
   });
 
+  eleventyConfig.addFilter("sortByLastModifiedDate", (values) => {
+    return values
+      .slice()
+      .sort((a, b) => a.data.lastModifiedDate - b.data.lastModifiedDate);
+  });
+
   eleventyConfig.addPassthroughCopy("css");
 
   let markdownLibrary = markdownIt({
