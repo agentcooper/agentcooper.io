@@ -5,6 +5,7 @@
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
     "start": "eleventy --serve",
+    "dev": "npm start",
     "debug": "DEBUG=* eleventy"
   },
   "repository": {
