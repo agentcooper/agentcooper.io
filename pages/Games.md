@@ -2,6 +2,12 @@
 
 - [Sable](https://en.wikipedia.org/wiki/Sable_(video_game))
 - [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)
+- [Genesis Noir](https://en.wikipedia.org/wiki/Genesis_Noir)
+- [Eastward](https://en.wikipedia.org/wiki/Eastward_(video_game))
+- [Baba is You](https://en.wikipedia.org/wiki/Baba_Is_You)
+- [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect)
+- [Alan Wake Remastered](https://en.wikipedia.org/wiki/Alan_Wake#Alan_Wake_Remastered)
+- [Turnip Boy Commits Tax Evasion](https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/)
 
 ## Played (2021)
 
