@@ -1,5 +1,17 @@
+## Looking forward to try
+
+- [Sable](https://en.wikipedia.org/wiki/Sable_(video_game))
+- [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)
+
+## Played (2021)
+
+- ⭐️ [The Legend of Zelda: Skyward Sword HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD) (September 2021, Switch)
+- [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)) (June 2021, PS4)
 - ⭐️ [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) (July 2021, PC)
-- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (PC)
+- [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (February 2021, PC)
+
+## Played (2020)
+
 - ⭐️ [Super Mario Galaxy](https://supermario3dallstars.nintendo.com/super-mario-galaxy/) (Switch)
 - [Wide Ocean Big Jacket](https://www.nintendo.com/games/detail/wide-ocean-big-jacket-switch/) (October 2020, Switch)
 - [DOOM Eternal](https://en.wikipedia.org/wiki/Doom_Eternal) (September 2020, PC)
@@ -11,7 +23,10 @@
 - [Fortnite](https://en.wikipedia.org/wiki/Fortnite) (June 2020, macOS)
 - ⭐️ [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
 - [Coffee Talk](https://www.gog.com/game/coffee_talk) (May 2020, macOS)
-- ⭐️ [Zelda](<https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)>) (March 2020, Switch)
+- ⭐️ [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)) (March 2020, Switch)
+
+## Played (2019)
+
 - ⭐️ [Death Stranding](https://en.wikipedia.org/wiki/Death_Stranding) (December 2019, PS4)
 - [Mario Kart Tour](https://en.wikipedia.org/wiki/Mario_Kart_Tour) (October 2019, iOS)
 - [Untitled Goose Game](https://en.wikipedia.org/wiki/Untitled_Goose_Game) (October 2019, Switch)
@@ -21,6 +36,9 @@
 - [Turok](https://www.gog.com/game/turok) (July 2019, macOS)
 - [Sekiro: Shadows Die Twice](https://en.wikipedia.org/wiki/Sekiro:_Shadows_Die_Twice) (May 2019, PS4)
 - [The Legend of Zelda: Majora's Mask](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask) (May 2019, 3DS)
+
+## Played
+
 - [Return of the Obra Dinn](https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn) (macOS)
 - ⭐️ [DUSK](<https://en.wikipedia.org/wiki/Dusk_(video_game)>) (macOS)
 - [Guacamelee! 2](https://en.wikipedia.org/wiki/Guacamelee!_2) (Switch)
@@ -41,10 +59,6 @@
 - [Kentucky Route Zero](https://en.wikipedia.org/wiki/Kentucky_Route_Zero) (macOS)
 - ⭐️ [Grim Fandango](https://en.wikipedia.org/wiki/Grim_Fandango) (macOS)
 - ️⭐️ [Team Fortress 2](https://en.wikipedia.org/wiki/Team_Fortress_2) (macOS)
-
-## Looking forward to try
-
-?
 
 ## Other
 
