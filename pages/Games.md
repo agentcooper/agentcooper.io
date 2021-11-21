@@ -8,6 +8,7 @@
 - [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect)
 - [Alan Wake Remastered](https://en.wikipedia.org/wiki/Alan_Wake#Alan_Wake_Remastered)
 - [Turnip Boy Commits Tax Evasion](https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/)
+- [Returnal](https://en.wikipedia.org/wiki/Returnal_(video_game))
 
 ## Played (2021)
 
