@@ -14,7 +14,7 @@ In no particular order.
 
 ## Books
 
-You can check the list of books I own in the [Goodreads profile](https://www.goodreads.com/review/list/4207679-artem?shelf=owning) under "owning" bookshelf.
+You can check the list of books I own in the [Goodreads profile](https://www.goodreads.com/review/list/4207679-artem?shelf=owned) under "owned" bookshelf.
 
 1. [Books by Simon Stålenhag](https://www.amazon.com/s?i=stripbooks&rh=p_27%3ASimon+Stålenhag&s=relevancerank&text=Simon+Stålenhag)
 2. [Feynman Lectures](https://www.amazon.de/dp/0465023827)
