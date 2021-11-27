@@ -34,6 +34,7 @@ You can check the list of books I own in the [Goodreads profile](https://www.goo
 1. Lego
 2. [Suitcase](https://www.awaytravel.com/eu/en/suitcases/bigger-carry-on/brick)
 3. [Apple cider](https://appelsenperen.amsterdam/webshop/)
+4. AeroPress
 
 ## Other
 
