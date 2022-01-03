@@ -37,7 +37,7 @@ It is still unclear how to start turning knowledge into actions in this area. Ma
 
 –
 
-I've randomly picked up and read Perfect Rigor, a book about a Russian mathematician Grigori Perelman, see [my notes](/pages/books/perfect-rigor).
+I've randomly picked up and read Perfect Rigor, a book about a Russian mathematician Grigori Perelman, see [my notes](/notes/books/perfect-rigor).
 
 –
 
