@@ -2,9 +2,9 @@
   "title": "Artem Tyurin",
   "url": "https://agentcooper.io/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Artem's blog and notes",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Artem's blog and notes",
     "filename": "rss.xml",
     "path": "/rss.xml",
     "id": "https://agentcooper.io/"
