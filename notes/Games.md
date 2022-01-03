@@ -1,22 +1,21 @@
 ## Looking forward to try
 
-- [Sable](https://en.wikipedia.org/wiki/Sable_(video_game))
-
+- [Sable](<https://en.wikipedia.org/wiki/Sable_(video_game)>)
 - [Genesis Noir](https://en.wikipedia.org/wiki/Genesis_Noir)
-- [Eastward](https://en.wikipedia.org/wiki/Eastward_(video_game))
+- [Eastward](<https://en.wikipedia.org/wiki/Eastward_(video_game)>)
 - [Baba is You](https://en.wikipedia.org/wiki/Baba_Is_You)
 - [Tetris Effect](https://en.wikipedia.org/wiki/Tetris_Effect)
 - [Alan Wake Remastered](https://en.wikipedia.org/wiki/Alan_Wake#Alan_Wake_Remastered)
 - [Turnip Boy Commits Tax Evasion](https://store.steampowered.com/app/1205450/Turnip_Boy_Commits_Tax_Evasion/)
-- [Returnal](https://en.wikipedia.org/wiki/Returnal_(video_game))
+- [Returnal](<https://en.wikipedia.org/wiki/Returnal_(video_game)>)
 
 ## Played (2021)
 
 - [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV) (December 2021, PC)
 - ⭐️ [The Legend of Zelda: Skyward Sword HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD) (September 2021, Switch)
-- [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)) (June 2021, PS4)
+- [It Takes Two](<https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)>) (June 2021, PS4)
 - ⭐️ [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) (July 2021, PC)
-- ⭐️ [Control](https://en.wikipedia.org/wiki/Control_(video_game)) (PC)
+- ⭐️ [Control](<https://en.wikipedia.org/wiki/Control_(video_game)>) (PC)
 - [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (February 2021, PC)
 
 ## Played (2020)
@@ -32,7 +31,7 @@
 - [Fortnite](https://en.wikipedia.org/wiki/Fortnite) (June 2020, macOS)
 - ⭐️ [Animal Crossing: New Horizons](https://en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons) (May 2020, Switch)
 - [Coffee Talk](https://www.gog.com/game/coffee_talk) (May 2020, macOS)
-- ⭐️ [The Legend of Zelda: Link's Awakening](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)) (March 2020, Switch)
+- ⭐️ [The Legend of Zelda: Link's Awakening](<https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Link%27s_Awakening_(2019_video_game)>) (March 2020, Switch)
 
 ## Played (2019)
 
