@@ -12,7 +12,7 @@
 
 ## Played (2021)
 
-- [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)
+- [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV) (December 2021, PC)
 - ⭐️ [The Legend of Zelda: Skyward Sword HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD) (September 2021, Switch)
 - [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)) (June 2021, PS4)
 - ⭐️ [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) (July 2021, PC)
