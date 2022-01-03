@@ -46,7 +46,7 @@ Some numbers:
 - Watched [68 movies](https://letterboxd.com/evilagentcooper/films/diary/for/2021/)
 - Read [16 books](https://www.goodreads.com/review/list/4207679-artem?read_at=2021)
 - Ran 782 kilometers
-- Played [6 video games](<https://agentcooper.io/pages/games/#played-(2021)>)
+- Played [6 video games](</notes/games/#played-(2021)>)
 - 2 public open-source projects, 2 private (still intending to publish at least one of those)
 - Played around 20 hours of guitar in Yousician
 - Just 3 trips: Berlin, Portugal, and Moscow
