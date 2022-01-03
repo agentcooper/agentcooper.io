@@ -1,7 +1,7 @@
 ## Looking forward to try
 
 - [Sable](https://en.wikipedia.org/wiki/Sable_(video_game))
-- [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)
+
 - [Genesis Noir](https://en.wikipedia.org/wiki/Genesis_Noir)
 - [Eastward](https://en.wikipedia.org/wiki/Eastward_(video_game))
 - [Baba is You](https://en.wikipedia.org/wiki/Baba_Is_You)
@@ -12,9 +12,11 @@
 
 ## Played (2021)
 
+- [Age of Empires IV](https://en.wikipedia.org/wiki/Age_of_Empires_IV)
 - ⭐️ [The Legend of Zelda: Skyward Sword HD](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Skyward_Sword_HD) (September 2021, Switch)
 - [It Takes Two](https://en.wikipedia.org/wiki/It_Takes_Two_(video_game)) (June 2021, PS4)
 - ⭐️ [Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium) (July 2021, PC)
+- ⭐️ [Control](https://en.wikipedia.org/wiki/Control_(video_game)) (PC)
 - [Cyberpunk 2077](https://en.wikipedia.org/wiki/Cyberpunk_2077) (February 2021, PC)
 
 ## Played (2020)
