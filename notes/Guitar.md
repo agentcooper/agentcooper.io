@@ -1,0 +1,3 @@
+- [Oasis – Wonderwall](https://www.youtube.com/watch?v=QIvr6VmZMY8)
+- [Pink Floyd – Wish You Were Here](https://www.youtube.com/watch?v=IzxMeQgtyYE)
+- [Blur – Tender](https://www.youtube.com/watch?v=vWuUfc4CbWo)
