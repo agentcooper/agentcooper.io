@@ -7,6 +7,20 @@ I'm participating in [BioHack Academy](http://biohackacademy.github.io) that sta
 
 # Week 2
 
+## Wednesday
+
+During our 1-on-1 meeting, I've asked Kas questions about the PCR and gel electrophoresis. I had an idea of creating a machine that calculates power function (`2^n`) using PCR.
+
+## Tuesday
+
+Maarten gave a lecture about electronics basics: circuits, resistors, capacitors, transistors, diodes. We took apart an old photospectrometer and tested different parts using multimeter. We also looked at the DIY mixer/heater machine.
+
+![Mixer machine](week-2-mixer.jpg)
+
+Later in the day we've assembled a [DIY photospectrometer from Gaudi Labs](https://gaudishop.ch/index.php/product/3d-printed-fiber-spectrometer-kit/). Maarten explained the basics of 3D printing.
+
+Paul Vanouse gave a lecture on creative misuse of technology. Most examples were about creating an arbitrary picture using DNA gel electrophoresis. He used specific enzymes to cut DNA according to specific lengths. Paul also told about his performance for the [BioARTCAMP](https://www.g-netwerk.nl/bioart-camp.html) where he did PCR on the open fire. It was interesting to learn about the [controversial](https://alumni.berkeley.edu/california-magazine/winter-2019/intolerable-genius-berkeleys-most-controversial-nobel-laureate) figure of Kary Mullis, the inventor of PCR.
+
 ## Monday
 
 Kas explained about the lab hardware:
