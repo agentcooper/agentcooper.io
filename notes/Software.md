@@ -1,26 +1,21 @@
-# macOS
+Software I use on macOS.
 
-## Free
+- [Safari](https://www.apple.com/safari/) – web browser
+- [AdGuard for Safari](https://adguard.com/en/adguard-safari/overview.html) – ad blocker
+- [Signal](https://www.signal.org) – instant messaging
+- Apple Mail
+- Apple Calendar
+- [GoodLinks](https://goodlinks.app) – read later and bookmarks
+- [Visual Studio Code](https://code.visualstudio.com/) – code editor
+- [Things](https://culturedcode.com/things/) – to-do app
+- [Reeder](http://reederapp.com/mac/) – RSS reader
+- [Anki](https://apps.ankiweb.net/) – flashcards
+- [VLC](https://www.videolan.org/) – video player
+- [Transmission](https://transmissionbt.com/) – torrent client
+- [Kodi](https://kodi.tv/) – media server
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) – YouTube downloader
+- [DeepL](https://www.deepl.com/en/translator) – language translation
+- [NordVPN](https://nordvpn.com) – VPN
 
-- [VLC](https://www.videolan.org/) (Video player)
-- [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) (YouTube downloader)
-- [Transmission](https://transmissionbt.com/) (Torrent client)
-- [Kodi](https://kodi.tv/) (Media server)
-- [Visual Studio Code](https://code.visualstudio.com/) (Code editor)
-- [Anki](https://apps.ankiweb.net/) (Flashcards)
-- [Picard](https://picard.musicbrainz.org/) (MP3 tag editor)
-- [DeepL] (Language translation)
-
-## Paid
-
-- [Things](https://culturedcode.com/things/) (To-do app)
-- [Reeder](http://reederapp.com/mac/) (RSS reader)
-
-## Games
-
-- [ioquake3](https://ioquake3.org/) (Quake 3)
-
-# Web
-
-- [Telegram](https://web.telegram.org) (Web version of Telegram)
-- [Feedly](https://feedly.com/) (RSS feeds)
+Ocassionally useful:
+- [Picard](https://picard.musicbrainz.org/) – MP3 tag editor
