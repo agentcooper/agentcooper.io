@@ -68,7 +68,7 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
-    templateFormats: ["md", "njk", "html", "jpg", "png"],
+    templateFormats: ["md", "njk", "html", "jpg", "png", "mov"],
     pathPrefix: "/",
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
