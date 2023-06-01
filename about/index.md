@@ -6,11 +6,11 @@ eleventyNavigation:
   order: 2
 ---
 
-I’m a software engineer living in Amsterdam. Currently, I work at Apple and I've worked at Uber before that.
+I am now enjoying a sabbatical. Before that, I worked at Apple and Uber on developer tools.
 
-If you are in Amsterdam, feel free to drop a message. We can grab a coffee and chat about computers, programming languages, biology, movies, expat life, Russia, video games, startups, running, or something else.
+If you are in Amsterdam, feel free to say hello. We can grab a coffee and chat about computers, compilers, programming languages, biology, movies, playing guitar, expat life, Russia, video games, startups, running, or something else.
 
 Contact me:
 
-- [Email](mailto:artem.tyurin+website@gmail.com)
+- [Email](mailto:artem.tyurin@gmail.com)
 - [GitHub](https://github.com/agentcooper)
