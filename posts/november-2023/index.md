@@ -17,7 +17,7 @@ As usual, here is the whole voyage compressed in video form. There are chapters,
 
 ---
 
-About 450 years ago, the Dutch ship named _Liefde_ (Love) was shipwrecked around the islands of Japan and it was the first contact between the two countries. My nameless direct flight from Amsterdam brought me to Haneda Airport in Osaka in 13 hours. After takeoff, the flight attendant told me two people would take a seat in my empty row. I was puzzled and asked where they would come from since we had already taken off. Like in the Netherlands, the Japanese lack land; the airport is built on an artificial island.
+About 450 years ago, the Dutch ship named _Liefde_ (Love) was shipwrecked around the islands of Japan and it was the first contact between the two countries. My nameless direct flight from Amsterdam brought me to Kansai International Airport in Osaka in 13 hours. After takeoff, the flight attendant told me two people would take a seat in my empty row. I was puzzled and asked where they would come from since we had already taken off. Like in the Netherlands, the Japanese lack land; the airport is built on an artificial island.
 
 During the first few days, I had time to recover from jet lag, explore the neighborhoods of Dotonbori and Shinsaibashi, and eat the city's specialty - takoyaki (minced octopus in batter). In the Americamura neighborhood, you can find a statue of freedom on the roof of one of the buildings. Japanese people love American culture: baseball, jazz, hip-hop, and Disney.
 
