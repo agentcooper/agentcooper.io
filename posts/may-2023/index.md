@@ -10,7 +10,7 @@ Tashkent, full of green trees, parks, fountains, and broad avenues, struck me as
 
 I edited a short film about the trip:
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/GmifDMsXyU0?vq=hd1080&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+{% youtube 'GmifDMsXyU0' %}
 
 ---
 

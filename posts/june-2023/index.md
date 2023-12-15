@@ -8,7 +8,7 @@ There are few places you can fly to from Amsterdam and get worse weather. One of
 
 I am very fortunate to have friends who planned the trip and provided wonderful company. Continuing the tradition I started last month, I made a short film about the trip:
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/AGJ-D1fvgMo?vq=hd1080&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+{% youtube 'AGJ-D1fvgMo' %}
 
 ---
 

@@ -67,6 +67,15 @@ module.exports = function (eleventyConfig) {
     ghostMode: false,
   });
 
+  eleventyConfig.addShortcode("youtube", function (youtubeID) {
+    return `<div>
+      <div style="position: relative; padding-top: 56.25%;">
+        <iframe src="https://www.youtube-nocookie.com/embed/${youtubeID}?vq=hd1080&modestbranding=1&rel=0" frameborder="0" allowfullscreen
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+      </div>
+    </div>`;
+  });
+
   return {
     templateFormats: ["md", "njk", "html", "jpg", "png", "mov"],
     pathPrefix: "/",

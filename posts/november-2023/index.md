@@ -13,7 +13,7 @@ The final route was as follows: Osaka → Hiroshima → Itsukushima → Fukuoka 
 
 As usual, here is the whole voyage compressed in video form. There are chapters, so you can watch it over several times.
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/f2kDwLdR0eU?vq=hd1080&modestbranding=1&rel=0" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+{% youtube 'f2kDwLdR0eU' %}
 
 ---
 
