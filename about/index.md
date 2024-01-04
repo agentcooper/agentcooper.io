@@ -6,7 +6,7 @@ eleventyNavigation:
   order: 2
 ---
 
-<img src="./me.jpg" width="150">
+<img src="./me.jpg" width="150" height="150">
 
 Hey there! Thanks for stopping by.
 
