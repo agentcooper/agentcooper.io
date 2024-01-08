@@ -35,6 +35,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy({ public: "/" });
 
   let markdownLibrary = markdownIt({
     html: true,
